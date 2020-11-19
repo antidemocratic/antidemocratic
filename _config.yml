@@ -22,7 +22,7 @@ title: Antidemocratic.us
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A site documenting those who would toss aside democracy to further their personal or political ends.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/antidemocratic" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
